@@ -1,0 +1,56 @@
+body {
+    background-color: lightblue;
+}
+
+#paraTwo {
+    color: green;
+    background-color: aqua;
+}
+
+#paraThree {
+    color: blue;
+    background-color: aquamarine
+}
+#paraFour{
+    
+    /* border: 3px solid black; */
+    /* border: 5px dashed blue; */
+    border: 5px dotted gray;
+}
+
+.para
+{
+    border:1px solid black;
+    /* padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px; */
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-left:30px
+}
+
+a:hover{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+}
+/* a:visited
+{
+    color:red;
+} */
+
+a:active
+{
+    color:red;
+}
+
+.myDiv
+{
+    border:1px solid red;
+    margin-bottom: 10px;
+}
+.mySpan
+{
+    border:1px solid black;
+    display: block;
+}
