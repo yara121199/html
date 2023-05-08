@@ -1,0 +1,73 @@
+body{
+
+   background-color: gray;
+
+
+}
+.p1{
+    
+    color:blue;
+   text-align: left;
+  
+
+}
+.p2{
+    
+    color: white;
+    text-align: left;
+    font-family: Arial;
+    
+
+
+}
+span{
+
+    color: yellow;
+}
+.red{
+
+    color: red;
+}
+bre{
+    color: white
+}
+
+.p3{
+
+        
+    color:blue;
+    text-align: left;
+    font-family: Arial;
+
+}
+ul  {
+    margin-left: 10px;
+    color: white;
+}
+.p4{
+        
+    color:blue;
+    text-align: left;
+    font-family: Arial;
+}
+.p5{
+
+   text-align: left;
+   color: white;
+   font-family: Arial;
+}
+ol{
+    margin-left: 10px;
+    color: white;
+  }
+  .p6{
+
+    text-align: left;
+    color: blue;
+    font-family: Arial;
+  }
+  .p7{
+    text-align: left;
+    color: blue;
+    font-family: Arial;
+  }
